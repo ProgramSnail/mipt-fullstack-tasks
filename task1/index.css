@@ -1,0 +1,12 @@
+.description {
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.description-image {
+  height: 100px;
+  width: auto;
+  margin: 10px;
+  border-radius: 10px;
+}
